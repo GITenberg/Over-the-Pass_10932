@@ -1,0 +1,31 @@
+_repo: Over-the-Pass_10932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Palmer, Frederick
+    birthdate: 1873
+    deathdate: 1958
+    gutenberg_agent_id: '3757'
+    url: http://www.gutenberg.org/2009/agents/3757
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Palmer_%28journalist%29
+description: Cover -- Contents.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Western stories'
+- !lcsh 'Arizona -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Children of the rich -- Fiction'
+- GITenberg
+title: Over the Pass
+url: http://www.gutenberg.org/ebooks/10932
